@@ -4,12 +4,14 @@ A GitHub template to quickly get started with Ably, hosted on Azure Static Web A
 
 Contents:
 
-- What is this?
-- Usage
-- Getting and Managing Ably API keys
-- Deployment
-- Dev Containers
-- Credits
+- [What is this?](#what-is-this-)
+- [Usage](#usage)
+- [Getting and Managing Ably API keys](#getting-and-managing-ably-api-keys)
+  * [Configuring your Ably API keys](#configuring-your-ably-api-keys)
+    + [For local development](#for-local-development)
+    + [Once deployed to Azure](#once-deployed-to-azure)
+- [Deployment](#deployment)
+- [Dev Containers](#dev-containers)
 
 # What is this?
 
