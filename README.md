@@ -1,4 +1,4 @@
-# Ably Typescript starter template with Azure Serverless Functions and Azure Static Web Apps
+# Ably + TypeScript starter template with Azure Serverless Functions and Azure Static Web Apps
 
 A GitHub template to quickly get started with Ably, hosted on Azure Static Web Apps (+built in Azure Functions), TypeScript and Jest.
 
